@@ -1,0 +1,6 @@
+footer::after{
+
+    content: "© Copyright Green Bank - Systems";
+    text-align: left;
+    font-size: small;
+}
